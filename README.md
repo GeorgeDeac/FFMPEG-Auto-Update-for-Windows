@@ -3,7 +3,7 @@ PS1 script to check the current version against Zeranoes prebuilds svn and autou
 
 Default path: "C:\Program Files\ffmpeg\"
 
-Prerequisite: 
+Prerequisites: 
 
               7-zip added to PATH
               
