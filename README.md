@@ -5,6 +5,6 @@ Default path: "C:\Program Files\ffmpeg\"
 
 Prerequisites: 
 
-              7-zip added to PATH
+            -  7-zip added to PATH
               
-              Set proper execution policy
+            -  Set proper execution policy
