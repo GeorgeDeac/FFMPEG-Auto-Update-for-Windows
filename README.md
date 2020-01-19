@@ -8,3 +8,5 @@ Prerequisites:
             -  7-zip added to PATH
               
             -  Set proper execution policy
+            
+            -  Need of an elevated Powershell instace if the default path is chosen
